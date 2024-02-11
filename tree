@@ -1,0 +1,11 @@
+webhook-client/
+|-- public/
+|   |-- index.html
+|-- src/
+|   |-- webhook.service.ts
+|   |-- app/
+|       |-- app.component.ts
+|-- angular.json
+|-- package.json
+|-- tsconfig.json
+|-- vercel.json
