@@ -1,0 +1,21 @@
+{
+  "name": "your-nextjs-app",
+  "version": "1.0.0",
+  "description": "Your Next.js App Description",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^12.0.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+    // Add other dependencies as needed
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3",
+    // Add other dev dependencies as needed
+  }
+}
